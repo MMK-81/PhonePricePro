@@ -125,4 +125,4 @@ Defaults include `request_timeout=20`, `delay_between_requests=1.5`, `use_browse
 
 ## License
 
-Private project. No license file is included.
+Personal project; no license file is included.
