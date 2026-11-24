@@ -9,7 +9,7 @@ APP_NAME = "قیمت یار"
 APP_NAME_EN = "PhonePricePro"
 AUTHOR = "محمد مهدی کاشی"
 VERSION = "1.0.0"
-GITHUB_REPO_DEFAULT = ""
+GITHUB_REPO_DEFAULT = "MMK-81/PhonePricePro"
 GITHUB_API = "https://api.github.com/repos/{repo}/releases/latest"
 
 DEFAULT_SETTINGS = {

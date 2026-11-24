@@ -105,7 +105,7 @@ When bumping the version, update **both** `VERSION` in `app/config.py` and `MyAp
 | Excel output | `settings.export_folder` or Desktop; default name `قیمت_گوشی_YYYYmmdd_HHMM.xlsx` |
 | Built-in site profiles | `app/sites/profiles.py` (Digikala, Teknolife, Hamrahtel) |
 
-Defaults include `request_timeout=20`, `delay_between_requests=1.5`, `use_browser_fallback=true`, `browser_wait_ms=2500`, `appearance="dark"`. `github_repo` is empty by default — enter `USER/REPO` in the Update tab to enable update checks.
+Defaults include `request_timeout=20`, `delay_between_requests=1.5`, `use_browser_fallback=true`, `browser_wait_ms=2500`, `appearance="dark"`. `github_repo` defaults to `MMK-81/PhonePricePro`, so update checks work out of the box; it can be changed in the Update tab.
 
 ## Updater behavior
 
