@@ -1,0 +1,22 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Build artifacts (regenerate with build.bat / ISCC.exe)
+build/
+dist/
+installer_output/
+*.spec.bak
+
+# Local settings / downloads are stored in %APPDATA%, not here
+settings.json
+
+# Editor / OS noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
